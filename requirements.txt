@@ -1,2 +1,5 @@
 toml
 PyYAML
+numpy
+pandas
+sqlalchemy
